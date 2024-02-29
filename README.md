@@ -49,7 +49,7 @@ This approach to game design focuses on balancing gameplay with narrative depth 
 
 ## Prototype Scenario
 
-## Chapter 1: The Mysterious Manuscript
+### Chapter 1: The Mysterious Manuscript
 
 - Setting: The game begins in a monastery in Wessex, where the player, a young Saxon scholar, is tasked with uncovering a vital piece of history. The player learns of a mysterious manuscript that references King Alfred the Great and a hidden treasure that could unite the Saxon kingdoms against the Viking invasions. However, a crucial page of the manuscript, believed to hold the location of the first clue, is missing.
 - Objective: Find the missing page of the manuscript to uncover the hidden treasure's location.
