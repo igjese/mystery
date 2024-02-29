@@ -62,6 +62,10 @@ Decision Points: At various stages, player choices can influence the narrative, 
 
 ## Instructions for Creating Game Visuals
 
+### Color Palette
+- primary color #bdab93 - fonts, borders
+- secondary color #282525 - background
+
 ### Style Guidelines
 - **Historical Accuracy**: All visuals should reflect the 10th-century setting, focusing on the historical context of England during the early medieval period. Elements such as clothing, architecture, and everyday objects must be appropriate for a modest, often austere living environment.
 - **Aesthetic**: Aim for a balance between realism and artistic expression. The visuals should convey the historical setting's mood and atmosphere, using lighting, textures, and colors that evoke the period's feel without sacrificing clarity and engagement.
