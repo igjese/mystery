@@ -2,7 +2,7 @@
 
 ## Summary
 
-Goal is to create cheap historical mystery solo. Value should come from historical accuracy and details. Setting is 10th century England.
+Goal is to create historical mystery game. It should be cheap to do in every aspect, so a single dev can do it with Godot. Value should come from historical accuracy and details. Setting is 10th century England.
 
 Main game mechanics should be mystery clues/puzzles and omnipresent education about that historical era. Maybe it should have very simplified survival (eat, rest, travel) as another layer.
 
