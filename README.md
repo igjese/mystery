@@ -1,6 +1,6 @@
 # Mystery: The Saxon Manuscript
 
-## Goal
+## Summary
 
 Goal is to create cheap historical mystery solo. Value should come from historical accuracy and details. Setting is 10th century England.
 
