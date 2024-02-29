@@ -1,5 +1,11 @@
 # Mystery: The Saxon Manuscript
 
+## Goal
+
+Goal is to create cheap historical mystery solo. Value should come from historical accuracy and details. Setting is 10th century England.
+
+Main game mechanics should be mystery clues/puzzles and omnipresent education about that historical era. Maybe it should have very simplified survival (eat, rest, travel) as another layer.
+
 ## Similar Games
 - Carmen Sandiego - https://store.steampowered.com/app/1246950/Where_in_the_World_is_Carmen_Sandiego/
 - Pentiment - https://store.steampowered.com/app/1205520/Pentiment/
@@ -8,16 +14,6 @@
 
 Interesting mechanics:
 - Disco Elysium - https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/
-
-## Main Game Mechanics
-- Mystery clues/puzzle
-- Educational, historical
-
-Maybe:
-- very light/simplified "survival": eat, rest, travel
-
-## Setting
-- 10 century England
 
 ## Prototype Scenario
 
