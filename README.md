@@ -34,11 +34,11 @@ Interesting mechanics:
   - `Aelred's World`: A dynamic in-game encyclopedia that expands with Aelred's experiences, compiling historical facts and personal insights.
   - `The Story So Far`: Serves as Aelred's "diary" in thought form, logging key events, decisions, and discoveries, organized chronologically with recent events first and significant milestones highlighted.
 
-## Aelred's "Diary" Implementation
+### Aelred's "Diary" Implementation
 
 `The Story So Far` feature is conceptualized not as a physical diary but as a mental catalog of Aelred's journey. It serves to recap the narrative, summarize educational content, and log decisions, emphasizing the player's impact on the game world.
 
-## Aelred's World - The Growing Encyclopedia
+### Aelred's World - The Growing Encyclopedia
 
 This living document enriches the gameplay by seamlessly integrating educational content into the narrative. It evolves to reflect the player's journey, ensuring historical information is relevant and tied to the player's experiences.
 
