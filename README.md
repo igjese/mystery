@@ -15,6 +15,38 @@ Main game mechanics should be mystery clues/puzzles and omnipresent education ab
 Interesting mechanics:
 - Disco Elysium - https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/
 
+## Interface Components
+
+### Main Visual
+- **Location**: Left side of the screen.
+- **Purpose**: Displays the current scene or environment, immersing the player in the game's world visually.
+
+### Text Area
+- **Location**: Bottom right.
+- **Purpose**: Shows dialogue, descriptions, and player interactions, dynamically updating to reflect the current focus or activity.
+
+### Available Actions
+- **Location**: Top right.
+- **Components**:
+  - `Talk to`: Initiates conversations with NPCs in the scene. Initially offers "Head Monk" for interaction.
+  - `Inspect`: Allows examination of environment elements (e.g., monastery, scrolls, head monk), providing historical context or progression clues.
+  - `Go Elsewhere`: Navigates to other locations such as the cloister, scriptorium, or village, each with unique scenes and learning opportunities.
+  - `Aelred's World`: A dynamic in-game encyclopedia that expands with Aelred's experiences, compiling historical facts and personal insights.
+  - `The Story So Far`: Serves as Aelred's "diary" in thought form, logging key events, decisions, and discoveries, organized chronologically with recent events first and significant milestones highlighted.
+
+## Aelred's "Diary" Implementation
+
+`The Story So Far` feature is conceptualized not as a physical diary but as a mental catalog of Aelred's journey. It serves to recap the narrative, summarize educational content, and log decisions, emphasizing the player's impact on the game world.
+
+## Aelred's World - The Growing Encyclopedia
+
+This living document enriches the gameplay by seamlessly integrating educational content into the narrative. It evolves to reflect the player's journey, ensuring historical information is relevant and tied to the player's experiences.
+
+---
+
+This approach to game design focuses on balancing gameplay with narrative depth and educational content, facilitating historical learning in an engaging and interactive manner. By embedding educational elements directly into the gameplay mechanics, players can explore and learn about the historical period in a way that feels natural and integral to their experience.
+
+
 ## Prototype Scenario
 
 ## Chapter 1: The Mysterious Manuscript
